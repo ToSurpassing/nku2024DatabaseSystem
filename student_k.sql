@@ -1,0 +1,9 @@
+INSERT INTO `student_k` (`id`, `name`, `gender`, `age`) VALUES ('182011011', '派大星', '男', '23');
+INSERT INTO `student_k` (`id`, `name`, `gender`, `age`) VALUES ('182085211', '杰瑞', '男', '21');
+INSERT INTO `student_k` (`id`, `name`, `gender`, `age`) VALUES ('182085212', '鲍勃', '男', '24');
+INSERT INTO `student_k` (`id`, `name`, `gender`, `age`) VALUES ('182085215', '汤姆', '男', '23');
+INSERT INTO `student_k` (`id`, `name`, `gender`, `age`) VALUES ('206546845', '张浩', '男', '21');
+INSERT INTO `student_k` (`id`, `name`, `gender`, `age`) VALUES ('209045599', '章鱼哥', '男', '38');
+INSERT INTO `student_k` (`id`, `name`, `gender`, `age`) VALUES ('209055599', '蟹阿金', '男', '42');
+INSERT INTO `student_k` (`id`, `name`, `gender`, `age`) VALUES ('209084163', '珊迪', '女', '29');
+INSERT INTO `student_k` (`id`, `name`, `gender`, `age`) VALUES ('209114122', '徐志强', '男', '21');
